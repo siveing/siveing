@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siveing HUY</h1>
-<h3 align="center">A passionate frontend developer from Cambodia, Mostly working as outsource.</h3>
+<h3 align="center">A passionate developer from Cambodia, Mostly working as outsource.</h3>
 
 - 🔭 I’m currently working on **Pathmazing Inc.**
 
