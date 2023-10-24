@@ -19,3 +19,8 @@
 <a href="https://fb.com/siveing.huy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="siveing.huy" height="30" width="40" /></a>
 <a href="https://instagram.com/callme_siveing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="callme_siveing" height="30" width="40" /></a>
 </p>
+
+### Github Stats
+
+[![Siveing's Github Stats](https://github-readme-stats.vercel.app/api?username=siveing&show_icons=true&theme=material-palenight)](https://github.com/siveing)
+[![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=siveing&show_icons=true&theme=material-palenight)](https://github.com/siveing)
