@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siveing HUY</h1>
-<h3 align="center">A passionate frontend developer from Cambodia, Mostly working as outsource.</h3>
+<h3 align="center">A passionate Mobile and Web developer from Cambodia, Mostly working as an outsource.</h3>
 
 - 🔭 I’m currently working on **Pathmazing Inc.**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **siveing.huyy@gmail.com**
 
-- ⚡ Fun fact **Funny make friend fast share new thing each others**
+- ⚡ Fun fact **Funny make friend fast share new thing each other**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
