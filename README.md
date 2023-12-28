@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Pathmazing Inc.**
 
-- 🌱 I’m currently learning **Web3, Smart Contract with Solidity**
+- 🌱 I’m currently learning **Web3, Smart Contract with Solidity, MonoRepo and Micro-Frontend**
 
 - 👨‍💻 All of my projects are available at [https://siveing.github.io/](https://siveing.github.io/)
 
