@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Siveing</h1>
 <h3 align="center">A passionate Mobile and Web developer from Cambodia, Mostly working as an outsource.</h3>
 
-- 🔭 I’m currently working on **Pathmazing Inc.**
+- 🔭 I’m currently working on **Nx workspace**
 
 - 🌱 I’m currently learning **Web3, Smart Contract with Solidity, MonoRepo and Micro-Frontend**
 
@@ -24,3 +24,4 @@
 
 [![Siveing's Github Stats](https://github-readme-stats.vercel.app/api?username=siveing&show_icons=true&theme=material-palenight)](https://github.com/siveing)
 [![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=siveing&show_icons=true&theme=material-palenight)](https://github.com/siveing)
+
