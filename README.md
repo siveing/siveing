@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **siveing.huyy@gmail.com**
 
-- ⚡ Fun fact **Funny make friend fast share new thing each other**
+- ⚡ Fun fact **Making friends quickly by sharing new things with each other is funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
