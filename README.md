@@ -25,3 +25,9 @@
 [![Siveing's Github Stats](https://github-readme-stats.vercel.app/api?username=siveing&show_icons=true&theme=material-palenight)](https://github.com/siveing)
 [![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=siveing&show_icons=true&theme=material-palenight)](https://github.com/siveing)
 
+
+### Github Stats
+
+[![Lujin's Github Stats](https://github-readme-stats.vercel.app/api?username=sivelujin&show_icons=true&theme=material-palenight)](https://github.com/sivelujin)
+[![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=sivelujin&show_icons=true&theme=material-palenight)](https://github.com/sivelujin)
+
