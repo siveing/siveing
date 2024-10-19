@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Siveing</h1>
+<h1 align="center">Hi 👋, I'm Siveing, Fullstack Developer</h1>
 <h3 align="center">A passionate Mobile and Web developer from Cambodia, Mostly working as an outsource.</h3>
 
 - 🔭 I’m currently working on **NestJs Clean Architecture**
 
-- 🌱 I’m currently learning **Web3, Smart Contract with Solidity, MonoRepo and Micro-Frontend**
+- 🌱 I’m currently learning **MonoRepo MicroFrontend & MicroService**
 
 - 👨‍💻 All of my projects are available at [https://siveing.github.io/](https://siveing.github.io/)
 
