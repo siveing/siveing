@@ -1,24 +1,36 @@
-<h1 align="center">Hi 👋, I'm Siveing, Fullstack Developer</h1>
-<h3 align="center">A passionate Mobile and Web developer from Cambodia, Mostly working as an outsource.</h3>
+<h1 align="center">Hi 👋, I'm Siveing (Jin)</h1>
 
-- 🔭 I’m currently working on **NestJs Clean Architecture**
-
-- 🌱 I’m currently learning **MonoRepo MicroFrontend & MicroService**
-
-- 👨‍💻 All of my projects are available at [https://siveing.github.io/](https://siveing.github.io/)
-
-- 💬 Ask me about **ReactJs, NextJs, NestJs, TypeScript, Laravel, Symfony, MeteorJs, React Native, Type ORM || Eloquent**
-
-- 📫 How to reach me **siveing.huyy@gmail.com**
-
-- ⚡ Fun fact **Making friends quickly by sharing new things with each other is funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/huysiveing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="huysiveing" height="30" width="40" /></a>
-<a href="https://fb.com/siveing.huy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="siveing.huy" height="30" width="40" /></a>
-<a href="https://instagram.com/callme_siveing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="callme_siveing" height="30" width="40" /></a>
+<p align="center">
+  <strong>Full-stack Developer • Cambodia</strong><br>
+  Turning ideas into fast, clean, production-ready apps since day one.
 </p>
+
+<br>
+
+### 🔧 Tech Stack & Expertise
+- **Frontend**: React (CRA + Vite), Next.js, Angular (yes, even Angular 8), Tailwind, MUI, SCSS
+- **Backend**: NestJS, Express + TypeScript, Odoo XML-RPC/JSON-RPC integration
+- **Database**: MongoDB, PostgreSQL (with proper timezone handling 😤)
+- **DevOps**: Docker + Docker Compose, Nginx, PM2, GitHub Actions (secrets, Firebase SDK, etc.)
+- **Others**: Performance optimization (bundle size warrior), multilingual apps (English ↔ Khmer ↔ Korean), CSV → JSON translation pipelines
+
+### 🌍 Languages & Communication
+- Fluent in English, Khmer, and code
+- Always shares working examples, Postman collections, and “here’s exactly what fixed it” solutions
+
+### ⚡ Fun Facts
+- Makes friends by teaching and learning new things instantly
+- Can debug a timezone issue at 2 AM and still smile
+- Probably has 50+ terminal tabs open right now
+
+### 📬 Let’s connect
+- GitHub: [siveing](https://github.com/siveing)
+- Portfolio: [siveing.github.io](https://siveing.github.io)
+- Email: siveing.huyy@gmail.com
+- Twitter: [@huysiveing](https://twitter.com/huysiveing)
+- Facebook: [siveing.huy](https://fb.com/siveing.huy)
+
+> “If it’s not production-ready and pixel-perfect, it’s not done.” — Siveing, probably
 
 ### Github Stats
 
