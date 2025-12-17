@@ -35,5 +35,5 @@
 ### Github Stats
 
 [![Siveing's Github Stats](https://github-readme-stats.vercel.app/api?username=siveing&show_icons=true&theme=material-palenight)](https://github.com/siveing)
-[![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=siveing&show_icons=true&theme=material-palenight)](https://github.com/siveing)
+[![Top Language](https://github-readme-stats.vercel.app/api/top-langs?username=siveing&layout=compact&langs_count=10&card_width=320&show_icons=true&theme=material-palenight)](https://github.com/siveing)
 
